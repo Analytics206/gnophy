@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/badge/web-gnophy.com-blue)](https://gnophy.com)  
 [![License – TBD](https://img.shields.io/badge/license-TBD-lightgrey)]()
 
+# gnophy.com
+
 > A philosophy companion powered by AI — converse with philosopher personas, explore a knowledge graph of ideas, and sharpen your reasoning.
 
 ---
